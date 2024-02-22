@@ -3,7 +3,7 @@ import pandas as pd
 import sklearn.tree as dtc
 
 print("----------------")
-print("La mia prima AI")
+print("Il mio primo esercizio di Machine Learning")
 
 # gestisco errore csv
 '''
